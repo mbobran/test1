@@ -1,0 +1,6 @@
+hash: b70b13dd0f7392c80ead19057054024befd2bfa01e13443542184aa513886361
+updated: 2018-10-18T14:01:42.813906833+02:00
+imports:
+- name: github.com/kubernetes-incubator/custom-metrics-apiserver
+  version: 43059f3da27f8d4dfe5aeea95d70010a3b70a31d
+testImports: []
